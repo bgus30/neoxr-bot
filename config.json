@@ -1,24 +1,24 @@
 {
-   "owner": "6285xxxxxxxx",
-   "owner_name": "Wildan Izzudin",
+   "owner": "6281779468741",
+   "owner_name": "Bagus Adi Harsono",
    "database": "data",
    "limit": 15,
-   "ram_limit": "900mb",
+   "ram_limit": "1024mb",
    "max_upload": 50,
    "max_upload_free": 25,
-   "cooldown": 3,
+   "cooldown": 0,
    "timer": 180000,
    "timeout": 1800000,
-   "permanent_threshold": 3,
-   "notify_threshold": 4,
-   "banned_threshold": 5,
-   "blocks": ["994", "91", "92"],
+   "permanent_threshold": 0,
+   "notify_threshold": 0,
+   "banned_threshold": 0,
+   "blocks": [""],
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
-      "number": 6282258694977,
-      "browser": ["Mac OS", "Chrome", "139.0.7258.164"],
+      "number": 6281779468741,
+      "browser": ["BagusXd"],
       "version": [2, 3000, 1032402702],
-      "code": "NEOXRBOT"
+      "code": "bagusbot"
    }
 }
